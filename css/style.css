@@ -252,6 +252,10 @@ body {
     text-transform: uppercase;
 }
 
+.full-info .name {
+    font-size: 24px;
+}
+
 .interests {
     display: flex;
 }
